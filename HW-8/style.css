@@ -1,0 +1,75 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;   
+}
+
+.hossain{
+    background-color: #081621;
+    justify-content: space-between;
+    height: 75px;
+    padding-left: 40px;
+    padding-top: 4px;
+}
+
+.hossain2{
+    font-size: 14px;
+
+}
+
+nav ul li{
+    display: inline;   
+}
+
+ul{
+    text-align: center;
+    border: 2px solid #e0d6d6;
+    padding: 10px;
+}
+
+li{
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.services{
+    display: inline-block;
+    
+}
+
+.services_1{
+    display: inline-block;
+}
+
+.hossain_2{
+    text-align: center;
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+h3{
+    background-color: rgb(235, 229, 229);
+    color: #3749bb;
+    margin-right: 20px;
+    padding: 10px;
+    background-position: 10%; 
+}
+
+.hossain_33{
+    margin-left: 50px;
+}
+
+.view a{
+    text-decoration: underline;
+    color: #e5330b;
+}
+
+img{
+    margin-left: 10px;
+}
